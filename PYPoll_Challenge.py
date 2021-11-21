@@ -1,3 +1,4 @@
+
 # -*- coding: UTF-8 -*-
 """PyPoll Homework Challenge Solution."""
 
@@ -25,7 +26,9 @@ county_votes = {}
 # Track the winning candidate, vote count and percentage
 winning_candidate = ""
 winning_count = 0
+winning_county = 0
 winning_percentage = 0
+winning_c_percentage = 0
 
 # 2: Track the largest county and county voter turnout.
 
