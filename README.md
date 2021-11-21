@@ -26,6 +26,7 @@ The Board of Elections has requested to complete the election audit of a recent 
             
 3.	Election-Audit Summary: 
 
+            o	The use of the python script to make a way to create the needed faster processes.   We can see that the code is able to give the needed information even with the big list of data. This can help in a lot of different ways as it creates a faster and easier way to give averages and create counts. In this script using the action of finding out where the votes came from which county. This was able to help get a better understanding and will help with the analysis process. Another way it can be modified to work with other elections is to add a loop and action to be able to present and separate the different demographics on how the voting went and who the people voted for. 
 
 
 
